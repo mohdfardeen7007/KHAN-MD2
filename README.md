@@ -46,7 +46,7 @@
 <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
     
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
-  <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
+  <p style="color: #00ffff;">First star & Fork repo using button Below</p>
   <a href='https://github.com/JawadYT36/KHAN-MD/fork' target="_blank">
     <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
   </a>
@@ -60,15 +60,20 @@
   
 --- 
 > **PAIRING LINK (01)**
-  <a href='https://khanxmd.onrender.com/' target="_blank">
+  <a href='https://khanmd-pair.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
   <div style="height: 10px;"></div>
   
 > **PAIRiNG LINK (02)**
-  <a href='https://jawadxmd.onrender.com/' target="_blank">
+  <a href='https://jawadmd-pair.onrender.com/pair' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a>
+
+  > **QR LINK (03)**
+  <a href='https://jawadmd-pair.onrender.com/qr' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_3-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
   ---
@@ -106,7 +111,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j/1368" target="_blank">
+      <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j/2303" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white"/>
       </a>
     </td>
